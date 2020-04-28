@@ -1,18 +1,5 @@
 Git Course
-Teste01
 
-Este é um reposítorio 01
+Realizando testes de push na plataforma do GitHub.
 
-
-Teste de reenvio:https://ve
-
-
-
-
-
-NOVO TESTE!!!!!!!!!!!!
-!
-!
-
-
-Novo testeeeee! Inserindo
+Teste: 01 2342
